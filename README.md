@@ -71,12 +71,12 @@ Netlify Demo [here](https://shoppies-rdtbui.netlify.app/)
 ![warn alert nomination full demo](https://github.com/RdtBui/beta-shoppies/blob/master/demo/warning-add-limit.gif)
 
 ## Thoughts and Improvements
+Some improvements I could do for the next time:
 - improve the summary to display the movie information alongside the filmstrip. When you swipe to the next movie, the information also changes with a slide animation on the same side as the swipe.
 - improve on the structure of the project
-- rewrite the code in a cleaner manner and follow best practices closer to the book.
 - use a issue tracking software like the Project feature on GitHub or ZenHub. Instead I used a pen and paper to keep track of the backlog and tasks + wireframe
 - have system tests with Selenium so I don't have to manually test each functionality every time I write new snippets of code
 - improve the summary carousel for mobile... it's currently not the greatest... but the rest is mobile-friendly!
-- add skeletons and progresses during asynchronous renders such as API requests to OMDB or YouTube API
-- test on Safari. This website has already been tested succesfully on both Mozilla, Chromium, and Google Chrome
+- add skeletons during asynchronous renders such as API requests to OMDB or YouTube API
+- test on Mozilla Firefox and Safari. This website has already been tested succesfully on both Chromium, and Google Chrome
 - hide the API keys. Don't worry, the YouTube API key is a public one with a daily limit. You won't burn my wallet.
