@@ -80,3 +80,5 @@ Some improvements I could do for the next time:
 - add skeletons during asynchronous renders such as API requests to OMDB or YouTube API
 - test on Mozilla Firefox and Safari. This website has already been tested succesfully on both Chromium, and Google Chrome
 - hide the API keys. Don't worry, the YouTube API key is a public one with a daily limit. You won't burn my wallet.
+
+Thanks for reaching the bottom of this page!
