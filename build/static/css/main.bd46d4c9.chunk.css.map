@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/MovieItem.css"],"names":[],"mappings":"AAAA,IACI,UAAW,CACX,eAAgB,CAChB,WACJ","file":"main.bd46d4c9.chunk.css","sourcesContent":["img {\n    width: 100%;\n    max-width: 120px;\n    height: auto;\n}"]}

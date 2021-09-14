@@ -1,0 +1,48 @@
+.carousel {
+    position: relative;
+    width: 700px;
+    height: 400px;
+    background: black;
+    margin: 0px auto;
+}
+.flicking {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    height: 260px;
+}
+.container {
+    position: absolute;
+    width: calc(100% - 10px);
+    height: calc(100% - 100px);
+    background: transparent;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 52px;
+}
+.panel {
+    position: relative;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+    background: #f55;
+}
+.panel:nth-child(5n + 1) {
+    background-color: #78caff;
+}
+.panel:nth-child(5n + 2) {
+    background-color: #ffd99d;
+}
+.panel:nth-child(5n + 3) {
+    background-color: #ffb0b9;
+}
+.panel:nth-child(5n + 4) {
+    background-color: #d8b5f6;
+}
+.panel:nth-child(5n) {
+    background-color: #b5f6b9;
+}
