@@ -23,34 +23,34 @@ Netlify Demo [here](https://shoppies-rdtbui.netlify.app/)
 ## Technical Requirements
 
 ### Each search result should list at least its title, year of release and a button to nominate that film.
-![search and display results demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/search-movie.gf)
+![search and display results demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/search-movie.gif)
 
 ### Updates to the search terms should update the result list.
-![update search update result demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/update-search.gf)
+![update search update result demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/update-search.gif)
 
 ### Following demo covers these two points
 - ### Movies in search results can be added and removed from the nomination list.
 - ### If a search result has already been nominated, disable its nominate button.
-![add remove demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/nominate-add-remove-disable.gf)
+![add remove demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/nominate-add-remove-disable.gif)
 
 ### Display a banner when the user has 5 nominations.
-![display banner on 5 nominations demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/banner-5-nomination.gf)
+![display banner on 5 nominations demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/banner-5-nomination.gif)
 
 ## Extra Features
 
 ### Oscar the Penguin! You will see him from time to time during the demos.
 
 ### Display information sheet + trailer according to movie. **The YouTube API daily quota might have been reached if someone has spent it all by spamming videos. I'm too broke to pay for more quotas.**
-![video trailer demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/trailer-youtube-api.gf)
+![video trailer demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/trailer-youtube-api.gif)
 
 ### View summary of the 5 nominated movies. I'm pretty proud of this idea but I could have improved it by a lot if I had more time.
 ![summary carousel demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/summary.gif)
 
 ### Animation on page load, there is also animation when adding movies on the nomination list. Gif quality poorly portrays the animation.
-![animation on page load demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/animation-intro.gf)
+![animation on page load demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/animation-intro.gif)
 
 ### Load more.
-![load more demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/load-more.gf)
+![load more demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/load-more.gif)
 
 ### And when you go all the way down, you can go back up with just a click of a button.
 ![scroll up button demo](https://github.com/RdtBui/the-shoppies/blob/main/demo/scroll-up.gif)
